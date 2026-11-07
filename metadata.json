@@ -1,0 +1,6 @@
+{
+  "name": "ระบบสารสนเทศ SSIS - โรงเรียนอนุบาลสุธิชา",
+  "description": "ระบบสารสนเทศ SSIS (Suthicha School Information System) แบบครบวงจร บริหารจัดการข้อมูลนักเรียน ครู ตารางสอน บันทึกคะแนน ปพ.5 เช็คชื่อ และคำนวณ BMI",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
